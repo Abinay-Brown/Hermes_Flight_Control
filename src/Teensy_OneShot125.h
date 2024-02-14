@@ -1,5 +1,5 @@
-#ifndef Teensy_Oneshot125_h
-#define Teensy_Oneshot125_h
+#ifndef Teensy_OneShot125_h
+#define Teensy_OneShot125_h
 
 class Oneshot125
 {
